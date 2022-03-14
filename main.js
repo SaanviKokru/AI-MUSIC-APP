@@ -10,7 +10,7 @@ song_Peter_pan = "";
 song_Harry_potter_theme = "";
 
 function setup(){
-    canvas = createCanvas(600,530);
+    canvas = createCanvas(380, 380);
     canvas.center();
 
     video = createCapture(VIDEO);
